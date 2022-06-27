@@ -4,3 +4,5 @@ Tools sederhana dengan mengimplementasikan mapreduce untuk mencari kata yang pal
 cara penggunaannya:
 > pip install requirements.txt
 > python main.py
+
+Terimakasih
